@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DevOps\\CSharp\\csharp_merge_pdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D37D64-6775-41C9-84AB-D6E879C6A322}|MergePDF\\MergePDF.csproj|f:\\devops\\csharp\\csharp_merge_pdf\\mergepdf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D37D64-6775-41C9-84AB-D6E879C6A322}|MergePDF\\MergePDF.csproj|solutionrelative:mergepdf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D37D64-6775-41C9-84AB-D6E879C6A322}|MergePDF\\MergePDF.csproj|f:\\devops\\csharp\\csharp_merge_pdf\\mergepdf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D37D64-6775-41C9-84AB-D6E879C6A322}|MergePDF\\MergePDF.csproj|solutionrelative:mergepdf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DevOps\\CSharp\\csharp_merge_pdf\\MergePDF\\Form1.cs",
+              "RelativeDocumentMoniker": "MergePDF\\Form1.cs",
+              "ToolTip": "F:\\DevOps\\CSharp\\csharp_merge_pdf\\MergePDF\\Form1.cs",
+              "RelativeToolTip": "MergePDF\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:05:51.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "F:\\DevOps\\CSharp\\csharp_merge_pdf\\MergePDF\\Form1.cs",
+              "RelativeDocumentMoniker": "MergePDF\\Form1.cs",
+              "ToolTip": "F:\\DevOps\\CSharp\\csharp_merge_pdf\\MergePDF\\Form1.cs [Projeto]",
+              "RelativeToolTip": "MergePDF\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:58:11.286Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
